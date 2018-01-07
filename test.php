@@ -32,4 +32,5 @@ echo <<< EOF_HTML
   </html>
 EOF_HTML;
 
+
 ?>
