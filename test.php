@@ -18,8 +18,7 @@ echo <<< EOF_HTML
   <!doctype html>
   <html>
     <head>
-      <meta charset="utf-8">
-      <title>test</title>
+            <title>test</title>
       <style>
         ul {
           list-style-type: none;
